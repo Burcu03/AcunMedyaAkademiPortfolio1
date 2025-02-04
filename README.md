@@ -23,3 +23,12 @@ Bu proje, Acunmedya Akademi "C# Programlama Eğitimi" kursu kapsamında oluştur
 - 🖧 **Partial View Kullanımı:** Tekrar kullanılabilir ve modüler arayüz bileşenleri oluşturmak için.
 - 🖇️ **CRUD İşlemleri:** Veritabanı üzerinde temel veri yönetim işlemlerini gerçekleştirmek için.
 - 📋 **LINQ Sorguları:** Verilere daha okunabilir ve güçlü sorgular yazmak için.
+
+  # 📸 Projeden Görseller
+  - 🖼️ **Ana Sayfa** (https://github.com/Burcu03/AcunMedyaAkademiPortfolio1/blob/master/AcunMedyaAkademiPortfolio1/Template/clyde-master/images/AnaSayfaPortfolio.png?raw=true)
+  - 🖼️ **İstatistikler** (https://github.com/Burcu03/AcunMedyaAkademiPortfolio1/blob/master/AcunMedyaAkademiPortfolio1/Template/clyde-master/images/%C4%B0statistiklerPortfolio.png?raw=true)
+  - 🖼️ **Hakkımda** (https://github.com/Burcu03/AcunMedyaAkademiPortfolio1/blob/master/AcunMedyaAkademiPortfolio1/Template/clyde-master/images/Hakk%C4%B1mdaPortfolio.png?raw=true)
+  - 🖼️ **Hizmetlerim** (https://github.com/Burcu03/AcunMedyaAkademiPortfolio1/blob/master/AcunMedyaAkademiPortfolio1/Template/clyde-master/images/HizmetlerPortfolio.png?raw=true)
+  - 🖼️ **Projelerim** (https://github.com/Burcu03/AcunMedyaAkademiPortfolio1/blob/master/AcunMedyaAkademiPortfolio1/Template/clyde-master/images/ProjelerPortfolio.png?raw=true)
+  - 🖼️ **Yeteneklerim** (https://github.com/Burcu03/AcunMedyaAkademiPortfolio1/blob/master/AcunMedyaAkademiPortfolio1/Template/clyde-master/images/YeteneklerPortfolio.png?raw=true)
+  - 🖼️ **İletişim** (https://github.com/Burcu03/AcunMedyaAkademiPortfolio1/blob/master/AcunMedyaAkademiPortfolio1/Template/clyde-master/images/%C4%B0leti%C5%9FimPortfolio.png?raw=true)
