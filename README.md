@@ -1,6 +1,7 @@
-## AcunMedyaAkademiPortfolio1
+# AcunMedyaAkademiPortfolio1
 #🌟 Kişisel Portföy Sitesi
 Bu proje, Acunmedya Akademi "C# Programlama Eğitimi" kursu kapsamında oluşturulmuş olan ilk projedir. Kıymetli hocalarım Buse Nur Demirbaş ve Murat Yücedağ' ın değerli anlatımlarıyla verdiği bilgiler ışığında ve Abdullah Kuş hocamın teknik destekleri sayesinde geliştirilmiştir. Asp.NET MVC framework' ü kullanılarak geliştirilmiş bir web sitesidir. Veritabanından çekilen verilerle dinamik bir yapı oluşturulmuştur. Admin paneli sayesinde veriler üzerinde güncelleme, ekleme, silme işlemleri kolaylıkla yapılabilmektedir. 
+
 #💡 Genel Özellikler
 -🌞 Admin Paneli: Sistem yönetiminin ve veri kontrolünün kolayca yönetilmesini sağlayan bölüm.
 -🌍 Ana Sayfa: Kullanıcıların ulaştığı ilk bölüm.
@@ -11,6 +12,7 @@ Bu proje, Acunmedya Akademi "C# Programlama Eğitimi" kursu kapsamında oluştur
 -✨ Projelerim: Geliştirilmiş/mekte olan projeleri içeren bölüm.
 -📚 Referanslarım: İş, projeler ile ilgili geri bildirim ve yorumları içeren bölüm.
 -📱 İletişim: Genel iletişim bilgilerini ve mesaj iletileri için oluşturulmuş formu içeren bölüm.
+
 #🔍 Kullanılmış Olan Teknoloji Araç ve Yöntemler
 -🖥️  ASP.NET MVC: Modüler ve sürdürülebilir web uygulamaları geliştirmek için.
 -🗂️ Microsoft SQL Server: Büyük ölçekli veri yönetimi ve saklama için.
