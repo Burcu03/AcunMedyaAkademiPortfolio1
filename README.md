@@ -13,9 +13,9 @@ Bu proje, Acunmedya Akademi "C# Programlama Eğitimi" kursu kapsamında oluştur
 - 📚 **Referanslarım:** İş, projeler ile ilgili geri bildirim ve yorumları içeren bölüm.
 - 📱 **İletişim:** Genel iletişim bilgilerini ve mesaj iletileri için oluşturulmuş formu içeren bölüm.
 
-# 🔍 Kullanılmış Olan Teknoloji Araç ve Yöntemler
+# 🔍 Kullanılmış Olan Teknoloji, Araç ve Yöntemler
 - 🖥️ **ASP.NET MVC:** Modüler ve sürdürülebilir web uygulamaları geliştirmek için.
-- 🗂️ **Microsoft SQL Server:** Büyük ölçekli veri yönetimi ve saklama için.
+- 🗂️ **Microsoft SQL Server:** Büyük ölçekli verilerin saklanması ve yönetimi için.
 - 🖱️ **HTML, CSS, Bootstrap:** Şık, kullanıcı dostu ve uyumlu arayüzler tasarlamak için.
 - 📂 **DB First Yaklaşımı:** Mevcut bir veritabanı üzerinden uygulama geliştirmek için.
 - 🔖 **Entity Framework Sorguları:** Veritabanı işlemlerini kolay ve güvenli bir şekilde yönetmek için.
@@ -25,7 +25,7 @@ Bu proje, Acunmedya Akademi "C# Programlama Eğitimi" kursu kapsamında oluştur
 - 📋 **LINQ Sorguları:** Verilere daha okunabilir ve güçlü sorgular yazmak için.
 
 # 📸 Projeden Görseller
-- 🖼️ ### **Ana Sayfa**  
+- ### 🖼️ **Ana Sayfa**  
   ![Ana Sayfa](https://github.com/Burcu03/AcunMedyaAkademiPortfolio1/blob/master/AcunMedyaAkademiPortfolio1/Template/clyde-master/images/AnaSayfaPortfolio.png?raw=true)
 - 🖼️ ### **İstatistikler**  
   ![İstatistikler](https://github.com/Burcu03/AcunMedyaAkademiPortfolio1/blob/master/AcunMedyaAkademiPortfolio1/Template/clyde-master/images/%C4%B0statistiklerPortfolio.png?raw=true)
