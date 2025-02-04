@@ -25,7 +25,7 @@ Bu proje, Acunmedya Akademi "C# Programlama Eğitimi" kursu kapsamında oluştur
 - 📋 **LINQ Sorguları:** Verilere daha okunabilir ve güçlü sorgular yazmak için.
 
   # 📸 Projeden Görseller
-  - 🖼️ **Ana Sayfa** (https://github.com/Burcu03/AcunMedyaAkademiPortfolio1/blob/master/AcunMedyaAkademiPortfolio1/Template/clyde-master/images/AnaSayfaPortfolio.png?raw=true)
+  - 🖼️ **Ana Sayfa** (https://github.com/Burcu03/AcunMedyaAkademiPortfolio1/blob/master/AcunMedyaAkademiPortfolio1/Template/clyde-master/images/AnaSayfaPortfolio.png)
   - 🖼️ **İstatistikler** (https://github.com/Burcu03/AcunMedyaAkademiPortfolio1/blob/master/AcunMedyaAkademiPortfolio1/Template/clyde-master/images/%C4%B0statistiklerPortfolio.png?raw=true)
   - 🖼️ **Hakkımda** (https://github.com/Burcu03/AcunMedyaAkademiPortfolio1/blob/master/AcunMedyaAkademiPortfolio1/Template/clyde-master/images/Hakk%C4%B1mdaPortfolio.png?raw=true)
   - 🖼️ **Hizmetlerim** (https://github.com/Burcu03/AcunMedyaAkademiPortfolio1/blob/master/AcunMedyaAkademiPortfolio1/Template/clyde-master/images/HizmetlerPortfolio.png?raw=true)
