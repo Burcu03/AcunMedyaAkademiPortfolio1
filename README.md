@@ -25,24 +25,24 @@ Bu proje, Acunmedya Akademi "C# Programlama Eğitimi" kursu kapsamında oluştur
 - 📋 **LINQ Sorguları:** Verilere daha okunabilir ve güçlü sorgular yazmak için.
 
 # 📸 Projeden Görseller
-- ### 🖼️ **Ana Sayfa**  
+- ## 🖼️ **Ana Sayfa**  
   ![Ana Sayfa](https://github.com/Burcu03/AcunMedyaAkademiPortfolio1/blob/master/AcunMedyaAkademiPortfolio1/Template/clyde-master/images/AnaSayfaPortfolio.png?raw=true)
-- 🖼️ ### **İstatistikler**  
+- ## 🖼️ **İstatistikler**  
   ![İstatistikler](https://github.com/Burcu03/AcunMedyaAkademiPortfolio1/blob/master/AcunMedyaAkademiPortfolio1/Template/clyde-master/images/%C4%B0statistiklerPortfolio.png?raw=true)
-- 🖼️ ### **Hakkımda**  
+- ## 🖼️ **Hakkımda**  
   ![Hakkımda](https://github.com/Burcu03/AcunMedyaAkademiPortfolio1/blob/master/AcunMedyaAkademiPortfolio1/Template/clyde-master/images/Hakk%C4%B1mdaPortfolio.png?raw=true)
-- 🖼️ ### **Hizmetlerim**  
+- ## 🖼️ **Hizmetlerim**  
   ![Hizmetlerim](https://github.com/Burcu03/AcunMedyaAkademiPortfolio1/blob/master/AcunMedyaAkademiPortfolio1/Template/clyde-master/images/HizmetlerPortfolio.png?raw=true)
-- 🖼️ ### **Projelerim**  
+- ## 🖼️ **Projelerim**  
   ![Projelerim](https://github.com/Burcu03/AcunMedyaAkademiPortfolio1/blob/master/AcunMedyaAkademiPortfolio1/Template/clyde-master/images/ProjelerPortfolio.png?raw=true)
-- 🖼️ ### **Yeteneklerim**  
+- ## 🖼️ **Yeteneklerim**  
   ![Yeteneklerim](https://github.com/Burcu03/AcunMedyaAkademiPortfolio1/blob/master/AcunMedyaAkademiPortfolio1/Template/clyde-master/images/YeteneklerPortfolio.png?raw=true)
-- 🖼️ ### **İletişim**  
+- ## 🖼️ **İletişim**  
   ![İletişim](https://github.com/Burcu03/AcunMedyaAkademiPortfolio1/blob/master/AcunMedyaAkademiPortfolio1/Template/clyde-master/images/%C4%B0leti%C5%9FimPortfolio.png?raw=true)
-  ### **Admin Panelinden Görseller**
-- 🖼️ ### **Hobiler**  
+  ## **Admin Panelinden Görseller**
+- ## 🖼️ **Hobiler**  
   ![Hobiler](https://github.com/Burcu03/AcunMedyaAkademiPortfolio1/blob/master/AcunMedyaAkademiPortfolio1/Template/clyde-master/images/HobilerAdmin.png?raw=true)
-- 🖼️ ### **Hizmetler**  
+- ## 🖼️ **Hizmetler**  
   ![Hizmetler](https://github.com/Burcu03/AcunMedyaAkademiPortfolio1/blob/master/AcunMedyaAkademiPortfolio1/Template/clyde-master/images/HizmetlerAdmin.png?raw=true)
 
   
