@@ -1,0 +1,27 @@
+﻿@model AcunMedyaAkademiPortfolio1.Models.TblProfile
+@{
+    ViewBag.Title = "UpdateProfile";
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+}
+
+<h2>Profil Blgilerini Güncelleme</h2>
+<form method="post">
+    <label> İsmi </label>
+    @Html.TextBoxFor(x => x.ProfileId, new { @class = "form-control" })
+    <label> İsmi </label>
+    @Html.TextBoxFor(x => x.Name, new { @class = "form-control" })
+
+    <label> Doğum Günü </label>
+    @Html.TextBoxFor(x => x.Birthday, new { @class = "form-control" })
+
+    <label> Adres Bilgisi </label>
+    @Html.TextBoxFor(x => x.Adress, new { @class = "form-control" })
+
+    <label> Email Adresi </label>
+    @Html.TextBoxFor(x => x.Email, new { @class = "form-control" })
+
+    <label> Telefon Numarası </label>
+    @Html.TextBoxFor(x => x.Telefone, new { @class = "form-control" })
+
+    <button class="btn btn-info"> Referansı Kaydet </button>
+</form>

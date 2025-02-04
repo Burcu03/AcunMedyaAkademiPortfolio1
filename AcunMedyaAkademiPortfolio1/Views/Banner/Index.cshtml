@@ -1,0 +1,21 @@
+﻿@model List<AcunMedyaAkademiPortfolio1.Models.TblBanner>
+    @{
+        ViewBag.Title = "Index";
+        Layout = "~/Views/AdminLayout/Index.cshtml";
+    }
+    <table class="table table-bordered">
+        <tr>
+            <th>Id</th>
+            <th>İsim</th>
+            <th>Mesleği</th>
+        </tr>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.BannerId</td>
+                <td>@item.Title</td>
+                <td>@item.Description</td>
+            </tr>
+        }
+    </table>
+

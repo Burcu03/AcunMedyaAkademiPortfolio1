@@ -1,0 +1,21 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+}
+
+@*linq*@
+<div class="alert alert-danger">Kategori Sayısı = @ViewBag.categoryCount </div>
+<div class="alert alert-warning">Proje Sayısı = @ViewBag.projectCount </div>
+<div class="alert alert-success">Yetenek Sayısı = @ViewBag.skillCount </div>
+<div class="alert alert-dark">Ortalama Yetenek Puanı = @ViewBag.skillAvgValue </div>
+<div class="alert alert-primary">Son Eklenen Yetenek = @ViewBag.LaskSkillTitleName </div>
+<div class="alert alert-info">Asp.Net MVC Proje Sayısı = @ViewBag.mvcCategoryProjectCount </div>
+
+<div class="alert alert-info">Toplam Referans Sayısı = @ViewBag.TestimonialCount </div>
+<div class="alert alert-primary">Gönderilen Toplam Mesaj Sayısı = @ViewBag.ContactCount </div>
+<div class="alert alert-secondary">Son Gönderilen Mesajın Göndereni = @ViewBag.LastMessageSender </div>
+<div class="alert alert-success">Toplam Sunulan Hizmet Sayısı = @ViewBag.ServiceCount </div>
+<div class="alert alert-warning">Toplam Hobi Sayısı = @ViewBag.HobbyCount </div>
+<div class="alert alert-info">En Çok Kullanılan Yetenek = @ViewBag.SkillValue </div>
+<div class="alert alert-success">En Son Eklenen Kategori = @ViewBag.LastCategory </div>

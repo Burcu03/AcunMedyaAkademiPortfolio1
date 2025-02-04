@@ -1,0 +1,21 @@
+﻿@Model List<AcunMedyaAkademiPortfolio1.Models.TblFeature>
+    @{
+        ViewBag.Title = "Index";
+        Layout = "~/Views/AdminLayout/Index.cshtml";
+    }
+    <table class="table table-bordered">
+        <tr>
+            <th>Id</th>
+            <th>Özellik</th>
+            <th>Altbaşlık</th>
+        </tr>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.FeatureId</td>
+                <td>@item.FeatureTitle</td>
+                <td>@item.FeatureSubtitle</td>
+            </tr>
+        }
+    </table>
+

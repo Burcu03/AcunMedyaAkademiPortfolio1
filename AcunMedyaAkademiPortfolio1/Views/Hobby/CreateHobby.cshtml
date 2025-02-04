@@ -1,0 +1,17 @@
+﻿@model AcunMedyaAkademiPortfolio1.Models.TblHobby
+@{
+    ViewBag.Title = "CreateHobby";
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+}
+
+<h2>Yeni Hobi Ekleme</h2>
+<form method="post">
+    <label> Hobi Resmi</label>
+    @Html.TextBoxFor(x => x.IconUrl, new { @class = "form-control" })
+
+    <label> Hobi İsmi </label>
+    @Html.TextBoxFor(x => x.Title, new { @class = "form-control" })
+
+    <button class="btn btn-info"> Yeni Hobiyi Ekle </button>
+</form>
+

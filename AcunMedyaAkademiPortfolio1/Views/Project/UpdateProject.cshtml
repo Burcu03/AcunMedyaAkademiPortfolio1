@@ -1,0 +1,22 @@
+﻿@model AcunMedyaAkademiPortfolio1.Models.TblProject
+@{
+    ViewBag.Title = "UpdateProject";
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+}
+
+<h2> Proje Bilgisi Güncelleme </h2>
+
+<form method="post">
+    <label> Proje Id </label>
+    @Html.TextBoxFor(x => x.ProjectId , new { @class = "form-control" })
+    <label> Proje İsmi </label>
+    @Html.TextBoxFor(x => x.ProjectName, new { @class = "form-control" })
+
+    <label> Proje Resmi </label>
+    @Html.TextBoxFor(x => x.ProjectImageUrl, new { @class = "form-control" })
+
+    <label> Proje Kategorisi </label>
+    @Html.TextBoxFor(x => x.ProjectCategory, new { @class = "form-control" })
+
+    <button class="btn btn-info"> Proje Bilgilerini Güncelle </button>
+</form>
